@@ -1,24 +1,15 @@
-# Dicoding Collection Dashboard ✨
+# 🧠 Proyek Analisis Data
 
-## Setup Environment - Anaconda
-```
-conda create --name main-ds python=3.9
-conda activate main-ds
-pip install -r requirements.txt
-```
+Selamat datang di repository ini! Repository ini berisi proyek analisis data yang saya kerjakan sebagai bagian dari pembelajaran, eksplorasi data, maupun mini-research. Setiap proyek memiliki pendekatan, dataset, dan tujuan analisis.
 
-## Setup Environment - Shell/Terminal
-```
-mkdir proyek_analisis_data
-cd proyek_analisis_data
-pipenv install
-pipenv shell
-pip install -r requirements.txt
-```
+## 📁 Struktur Folder
 
-## Run steamlit app
-```
-streamlit run dashboard.py
-```
+- `dicoding_project/`  
+  Berisi notebook analisis data dari dataset yang digunakan dalam submission Dicoding, termasuk proses eksplorasi data, visualisasi, dan insight yang diperoleh.
+  
+## 🧰 Tools & Library yang Digunakan
 
-#project ini saya pelajari pada course dicoding
+- Python 3.13.1
+- Jupyter Notebook
+- pandas, numpy
+- matplotlib, seaborn
